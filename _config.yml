@@ -3,8 +3,12 @@ title: Edward
 description: Head of architecture at Hubba
 # description: By day Edward works as the head of architecture at Hubba, but he is also the founder of Random Coffees, and author of open source projects like curdy, jyson, and magic-service-bus. Edward has a degree in computer science from the University of Toronto. In his personal time he builds his own quad copters, and makes terrible puns.
 google_analytics: UA-116652735-1
-url: http://earobinson.net/
-baseurl: '/'
+
+# paginate: 5
+# paginate_path: "/blog/page:num/"
 
 # Custom vars
 version: 1.0.0
+
+# Gems
+# gems: [jekyll-paginate]
