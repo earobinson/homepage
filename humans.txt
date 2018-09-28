@@ -1,0 +1,8 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
