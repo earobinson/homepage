@@ -1,0 +1,18 @@
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "sidebar.html" . }}
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        <div class="post">
+          <h1>{{ .Title }}</h1>
+          <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - Read in {{ .ReadingTime }} Min </div>
+          {{ .Content }}
+        </div>
+        <!-- {{ partial "sharing.html" .}} -->
+        {{ partial "comments.html" .}}
+      </div>
+    </div>
+
+  </body>
+  {{ partial "script.html" .}}
+</html>

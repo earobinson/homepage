@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Edward Andrew Robinson on Edward Andrew Robinson </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://earobinson.net/</link>
+    <language>en-ca</language>
+    
+    
+    <updated>Fri, 08 Mar 2019 15:37:38 EST</updated>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>http://earobinson.net/post/hello-hugo/</link>
+      <pubDate>Fri, 08 Mar 2019 15:37:38 EST</pubDate>
+      
+      <guid>http://earobinson.net/post/hello-hugo/</guid>
+      <description>&lt;p&gt;Another year another blog, still hosting this content on github, but I have moved from &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;jekyll&lt;/a&gt; to &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;. Other things I have been doing, I moved to &lt;a href=&#34;https://bunz.com&#34;&gt;Bunz&lt;/a&gt;, and am learning &lt;a href=&#34;https://elixir-lang.org/&#34;&gt;elixir&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thats it for now &amp;hellip; till I move to another blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://earobinson.net/post/hello-world/</link>
+      <pubDate>Sun, 01 Apr 2018 14:41:45 -0500</pubDate>
+      
+      <guid>http://earobinson.net/post/hello-world/</guid>
+      <description>&lt;p&gt;Its amazing, this is my fourth blog. I have had a wordpress blog, a custom django blog, a custom rails blog, and now this is hosted on jekyll. Im sure I wont update this often, but I figured I needed a refresh.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
