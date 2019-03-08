@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Edward Andrew Robinson</title>
-    <link>http://earobinson.net/categories/</link>
+    <link>https://earobinson.net/categories/</link>
     <description>Recent content in Categories on Edward Andrew Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     
-	<atom:link href="http://earobinson.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://earobinson.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>http://earobinson.net/categories/posts/</link>
+      <link>https://earobinson.net/categories/posts/</link>
       <pubDate>Fri, 08 Mar 2019 15:37:38 -0500</pubDate>
       
-      <guid>http://earobinson.net/categories/posts/</guid>
+      <guid>https://earobinson.net/categories/posts/</guid>
       <description></description>
     </item>
     

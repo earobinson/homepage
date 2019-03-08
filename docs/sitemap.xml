@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://earobinson.net/post/hello-hugo/</loc>
+    <loc>https://earobinson.net/post/hello-hugo/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://earobinson.net/post/hello-world/</loc>
+    <loc>https://earobinson.net/post/hello-world/</loc>
     <lastmod>2018-04-01T14:41:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://earobinson.net/tags/blog/</loc>
+    <loc>https://earobinson.net/tags/blog/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/categories/</loc>
+    <loc>https://earobinson.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/</loc>
+    <loc>https://earobinson.net/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/tags/jekyll/</loc>
+    <loc>https://earobinson.net/tags/jekyll/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/post/</loc>
+    <loc>https://earobinson.net/post/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/categories/posts/</loc>
+    <loc>https://earobinson.net/categories/posts/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://earobinson.net/tags/</loc>
+    <loc>https://earobinson.net/tags/</loc>
     <lastmod>2019-03-08T15:37:38-05:00</lastmod>
     <priority>0</priority>
   </url>
