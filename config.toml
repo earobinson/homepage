@@ -1,0 +1,29 @@
+baseURL = "http://earobinson.net"
+languageCode = "en-ca"
+title = "Edward Andrew Robinson"
+author = "Edward Andrew Robinson"
+theme = "hugo-uno"
+googleAnalytics = "UA-116652735-1"
+
+[params]
+  AuthorName = "Edward Andrew Robinson"
+  description = "Developer at Bunz | CTO at RandomCoffees"
+  name = "Edward Andrew Robinson"
+  email = "contact@earobinson.net"
+  twitter = "earobinson"
+  facebook = "edwardarobinson"
+  github = "earobinson"
+  linkedin = "earobinson42"
+  logo = "/images/profile.jpg"
+  cover = "/images/cover.jpg"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# [indexes]
+#    category = "categories"
+#    tag = "tags"
+
+# [permalinks]
+#   posts = "/:year/:month/:day/:title/"

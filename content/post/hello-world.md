@@ -1,6 +1,7 @@
 ---
-title: Hello world
-layout: post
+title: "Hello World"
+date: 2018-04-01T14:41:45-05:00
+draft: false
 categories: [posts]
 tags: [blog, jekyll]
 ---
