@@ -27,3 +27,5 @@ googleAnalytics = "UA-116652735-1"
 
 # [permalinks]
 #   posts = "/:year/:month/:day/:title/"
+
+publishDir = "docs"
